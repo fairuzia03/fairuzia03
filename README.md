@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=Computer%20Science%20Undergraduate%20%40%20Udayana%20University%20Data%20Science%20%26%20Machine%20Learning%20Enthusiast;Turning%20messy%20and%20interesting%20datasets%20into%20interactive%20dashboards%2C%20useful%20analysis%20and%20insights%2C%20and%20ML%20models." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=805&height=44&lines=Computer%20Science%20Undergraduate%20%40%20Udayana%20University;Data%20Science%20%26%20Machine%20Learning%20Enthusiast" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -64,3 +64,4 @@ I'm currently in my second year of studying Computer Science in the undergraduat
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/fairuzia03">fairuzia03</a></i></p>
+
