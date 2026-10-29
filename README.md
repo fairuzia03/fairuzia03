@@ -38,7 +38,7 @@ I'm currently in my second year of studying Computer Science in the undergraduat
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Fairuzia Rahimanita"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/fairuzia-rahimanita-0b8a62379"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/flluvss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:zialuvs3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -64,4 +64,3 @@ I'm currently in my second year of studying Computer Science in the undergraduat
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/fairuzia03">fairuzia03</a></i></p>
-
